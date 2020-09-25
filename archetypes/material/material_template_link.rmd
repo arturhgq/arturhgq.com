@@ -1,0 +1,12 @@
+---
+title: titulo
+weight: 3
+date: "2020-MM-DD"
+lastmod: "`r Sys.Date()`"
+categories: []
+tags: []
+draft: false  
+type: page 
+---
+
+

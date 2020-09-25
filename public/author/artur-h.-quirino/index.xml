@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artur H. Quirino | Ciência Política no século XXI</title>
+    <link>/author/artur-h.-quirino/</link>
+      <atom:link href="/author/artur-h.-quirino/index.xml" rel="self" type="application/rss+xml" />
+    <description>Artur H. Quirino</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright (C) 2020 Arturhgq</copyright>
+    <image>
+      <url>/media/sharing_image.png</url>
+      <title>Artur H. Quirino</title>
+      <link>/author/artur-h.-quirino/</link>
+    </image>
+    
+  </channel>
+</rss>

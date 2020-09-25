@@ -1,0 +1,15 @@
+---
+title: 'titulo'
+subtitle: ''
+summary: ''
+author: Artur H Quirino
+slug: sobre-o-blog
+date: 'data'
+lastmod: "`r Sys.Date()`"
+categories: []
+tags: []
+draft: false
+image:
+  preview_only: true
+---
+

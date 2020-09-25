@@ -1,0 +1,18 @@
+{
+  "name": "Ciência Política no século XXI",
+  "short_name": "Ciência Política no século XXI",
+  "lang": "en-us",
+  "theme_color": "#338cc1",
+  "background_color": "#338cc1",
+  "icons": [{
+    "src": "/images/icon_hu2a1fb18899fd05d931bdd7df10879d0a_35182_192x192_fill_lanczos_center_2.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/images/icon_hu2a1fb18899fd05d931bdd7df10879d0a_35182_512x512_fill_lanczos_center_2.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}

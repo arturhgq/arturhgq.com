@@ -1,0 +1,16 @@
+---
+linktitle: label # nome no "toc" se "parent"
+title: titulo
+date: "2020-MM-DD"
+lastmod: "`r Sys.Date()`"
+categories: []
+tags: []
+draft: false  
+type: docs 
+menu:
+  nome_do_diretorio:
+    name: nome_da_seção #"parent"
+    weight: 1
+---
+
+

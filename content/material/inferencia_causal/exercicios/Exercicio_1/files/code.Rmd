@@ -1,0 +1,18 @@
+---
+title: Código e dicas exercício 1
+subtitle: 
+weight: 3
+date: "2020-DD-MM"
+lastmod: "`r Sys.Date()`"
+categories: ["Causal-inference"]
+tags: ["R", "Causal-inference"]
+draft: false  
+type: page 
+---
+
+
+```{r include = FALSE}
+pacman::p_load(tidyverse)
+knitr::opts_chunk$set(eval = TRUE)
+```
+

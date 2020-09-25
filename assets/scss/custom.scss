@@ -1,0 +1,51 @@
+body {
+  font-family: "TeX Gyre Pagella";
+  background-color: #fbf0d9;
+}
+
+h1 {
+  color: #333333;
+  font-family: "TeX Gyre Pagella";
+  font-weight: bold
+}
+
+h2 {
+  color: #333333;
+  font-family: "TeX Gyre Pagella";
+  font-weight: bold
+}
+
+h3 {
+  font-family: "Quattrocento";
+}
+
+code {
+  background-color:"transparent";
+  font-size: 10pt;
+  color: #b34700;
+}
+
+.hljs-string {
+  color: #ff1a75;
+}
+
+.hljs-literal {
+  color: #009933;
+  font-weight: bold;
+}
+
+.hljs-comment {
+  color: gray;
+}
+
+.hljs-keyword {
+  color: #333333;
+}
+
+a {
+  color: #338cc1;
+}
+
+pre code {
+  white-space: pre-wrap;
+}

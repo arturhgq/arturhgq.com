@@ -1,0 +1,25 @@
+#[[main]]
+#  name = "Início"
+#  url = "#about"
+#  weight = 10
+
+[[main]]
+  name = "Blog"
+  url = "#posts"
+  weight = 20
+
+
+[[main]]
+  name = "Material"
+  url = "material/"
+  weight = 50
+
+[[main]]
+  name = "Contato"
+  url = "#contact"
+  weight = 60
+
+ [[main]]
+    name = "CV"
+    url = "cv/"
+    weight = 70
